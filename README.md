@@ -1,9 +1,7 @@
 # NovaXscript
 DEVELOPER: NovaRiftX
 
-SPECIAL ACCESS: mkmhome, peepeehead, ohgeezmorti
-
-MVPs:
+MVPs: mkmhome, peepeehead, ohgeezmorti
 
 VIPs:
 
