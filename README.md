@@ -1,2 +1,6 @@
 # NovaXscript
-troll friends at school!
+DEVELOPER: NovaRiftX
+SPECIAL ACCESS: mkmhome, peepeehead, ohgeezmorti
+MVPs:
+VIPs:
+
